@@ -1,0 +1,36 @@
+button {
+  background-color: blueviolet;
+}
+button:hover {
+  font-weight: bolder;
+  background-color: greenyellow;
+}
+p {
+  font-family: "Times New Roman", Times, serif;
+  color: greenyellow;
+}
+body {
+  background-color: #333333;
+}
+li {
+  font-family: "Times New Roman", Times, serif;
+  color: greenyellow;
+}
+h1,
+h2,
+h4 {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  color: greenyellow;
+}
+li:hover {
+  font-weight: bold;
+  text-decoration: none;
+}
+img {
+  float: right;
+  width: 250px;
+  height: 150px;
+  position: relative;
+}
+
+
